@@ -31,7 +31,7 @@ Specular.shader
 
 <table align="center">
   <tr>
-    <th style="text-align: center;">Normal</th>
+    <th style="text-align: center;">Before Shading</th>
     <th style="text-align: center;">Metallic 0 & Gloss 0</th>
     <th style="text-align: center;">Metallic 1 & Gloss 1</th>
   </tr>
