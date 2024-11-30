@@ -20,10 +20,10 @@ Specular.shader
     <th style="text-align: center;">Specular</th>
   </tr>
   <tr>
-    <td><img src="asset/Normal.png" width="420" height="300"></td>
-    <td><img src="asset/Color.png" width="420" height="300"></td>
-    <td><img src="asset/Position.png" width="420" height="300"></td>
-    <td><img src="asset/Specular.png" width="420" height="300"></td>
+    <td><img src="asset/Normal.png" width="420" height="420"></td>
+    <td><img src="asset/Color.png" width="420" height="420"></td>
+    <td><img src="asset/Position.png" width="420" height="420"></td>
+    <td><img src="asset/Specular.png" width="420" height="420"></td>
   </tr>
 </table>
 
