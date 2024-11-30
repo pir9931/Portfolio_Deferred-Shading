@@ -36,7 +36,7 @@ Specular.shader
     <th style="text-align: center;">Metallic 1 & Gloss 1</th>
   </tr>
   <tr>
-    <td><img src="asset/Normal.png" width="300" height="300"></td>
+    <td><img src="asset/DeferredNormal.png" width="300" height="300"></td>
     <td><img src="asset/Deferred00.png" width="300" height="300"></td>
     <td><img src="asset/Deferred11.png" width="300" height="300"></td>
   </tr>
